@@ -1,17 +1,20 @@
 # Hi there! 👋
 
 I'm **Esteban Prieto**, a Systems Engineering student at the **National University of Colombia**.  
-I have a strong passion for **mathematics**, **software development**, and **low-level programming**.
+I have a strong passion for **mathematics**, **videogames**, and **low-level programming**.
 
 ---
 
 ## 💻 My Skills
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" />
-  <img src="https://media.licdn.com/dms/image/v2/D5612AQG-ZYoX2UY4_w/article-cover_image-shrink_600_2000/0/1688225413043?e=2147483647&v=beta&t=UCrm8uT86TUbKonvBGLSOQRHdYOJnqV9xahMf2AfgHY" alt="Assembly" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+</p>
 </p>
 
 
