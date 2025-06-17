@@ -1,2 +1,2 @@
 # About-me
-Una pequeña descripción sobre mí
+Una pequeña descripción sobre mí.
